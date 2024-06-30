@@ -1,0 +1,2 @@
+tv rack,0,1,C:\Users\santiago\Documents\Santi\general\uni\2do cuatrimestre\laboratorio_2\trabajo creativo 2\imagenes\rack.jpg
+armario,1,2,C:\Users\santiago\Documents\Santi\general\uni\2do cuatrimestre\laboratorio_2\trabajo creativo 2\imagenes\armario.jpg

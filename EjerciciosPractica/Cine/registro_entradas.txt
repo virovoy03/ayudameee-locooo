@@ -1,0 +1,4 @@
+Pelicula: Avengers: Endgame, Cliente: 0, Precio Final: $60.0
+Pelicula: Jurassic Park, Cliente: 0, Precio Final: $100.0
+Pelicula: El Gran Showman, Cliente: 2, Precio Final: $60.0
+Pelicula: El Caballero Oscuro, Cliente: 0, Precio Final: $100.0

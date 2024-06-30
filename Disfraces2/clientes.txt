@@ -1,0 +1,2 @@
+1,Cliente1,121212,0,cliente1@correo.com.ar
+2,Cliente1,989899,0,cliente2@correo.com.ar

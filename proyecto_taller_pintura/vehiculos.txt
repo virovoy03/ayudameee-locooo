@@ -1,0 +1,2 @@
+1,ag111,auto,2,
+2,bc777,camion,1,#poner codigos de marca modelo y propietario

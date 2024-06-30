@@ -1,0 +1,6 @@
+1,ccc000,camion,1,1,2
+2,aaa111,auto,2,2,1
+3,aaa222,auto,3,3,4
+4,mmm333,moto,4,4,3
+5,ccc444,camion,1,5,2
+6,ccc555,camion,1,6,1

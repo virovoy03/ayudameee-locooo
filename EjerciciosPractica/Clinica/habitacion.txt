@@ -1,0 +1,2 @@
+1,elena,central,4,0,3
+2,elena,central,2,0,1

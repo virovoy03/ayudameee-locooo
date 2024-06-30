@@ -1,0 +1,5 @@
+1;Juan;Perez;0
+2;Maria;Salinas;0
+3;Pedro;Sanchez;1
+4;Ana;Campillo;0
+5;Carlos;Kum;0

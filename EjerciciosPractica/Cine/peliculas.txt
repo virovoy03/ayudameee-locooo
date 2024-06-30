@@ -1,0 +1,4 @@
+Avengers: Endgame,100,0,0
+Jurassic Park,100,1,0
+El Gran Showman,100,0,1
+El Caballero Oscuro,100,1,0

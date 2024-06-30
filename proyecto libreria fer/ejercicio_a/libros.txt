@@ -1,0 +1,2 @@
+hola,fernando,10,4
+chau,laura,5,5

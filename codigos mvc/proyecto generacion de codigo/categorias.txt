@@ -1,0 +1,5 @@
+1,Primera
+2,Reserva
+3,Femenino
+4,Senior
+5,Infantil

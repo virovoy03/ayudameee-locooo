@@ -1,0 +1,68 @@
+Nombre;Apellido;Telefono;DNI;Mail;Estado
+Juan;Perez;123456789;12345678;juan@example.com;1
+Maria;Gonzalez;987654321;87654321;maria@example.com;0
+Pedro;Lopez;456789123;23456789;pedro@example.com;1
+Ana;Martinez;789123456;34567890;ana@example.com;1
+Carlos;Rodriguez;321654987;45678901;carlos@example.com;1
+Sofia;Sanchez;564738291;56789012;sofia@example.com;0
+Alejandro;Diaz;192837465;67890123;alejandro@example.com;1
+Valeria;Garcia;384756291;78901234;valeria@example.com;1
+Mateo;Gomez;726384915;89012345;mateo@example.com;1
+Lucia;Fernandez;392874651;90123456;lucia@example.com;1
+Diego;Suarez;648291735;01234567;diego@example.com;0
+Elena;Torres;193847562;12345678;elena@example.com;1
+Nicolas;Rivera;485726193;23456789;nicolas@example.com;1
+Martina;Lopez;982736451;34567890;martina@example.com;0
+Joaquin;Martinez;573829164;45678901;joaquin@example.com;1
+Catalina;Gutierrez;279461835;56789012;catalina@example.com;1
+Benjamin;Castro;847362915;67890123;benjamin@example.com;0
+Isabella;Alvarez;463819275;78901234;isabella@example.com;1
+Maximiliano;Rojas;918274635;89012345;maximiliano@example.com;1
+Antonella;Sosa;372819465;90123456;antonella@example.com;1
+Facundo;Blanco;746192835;01234567;facundo@example.com;0
+Candela;Mendoza;283746915;12345678;candela@example.com;1
+Thiago;Acosta;649173582;23456789;thiago@example.com;1
+Luna;Perez;928475361;34567890;luna@example.com;1
+Bautista;Ramos;571926348;45678901;bautista@example.com;0
+Valentino;Aguirre;372648915;56789012;valentino@example.com;1
+Victoria;Romero;918273465;67890123;victoria@example.com;1
+Juan Pablo;Reyes;283746915;78901234;juanpablo@example.com;1
+Emma;Ortega;649182735;89012345;emma@example.com;1
+Agustin;Hernandez;928461735;90123456;agustin@example.com;1
+Camila;Torres;374619285;01234567;camila@example.com;0
+Santiago;Fernandez;619283745;12345678;santiago@example.com;1
+Milagros;Diaz;928461735;23456789;milagros@example.com;1
+Juan Ignacio;Garcia;284617395;34567890;juanignacio@example.com;1
+Isabel;Alonso;928461735;45678901;isabel@example.com;0
+Juan Martin;Martinez;372648915;56789012;juanmartin@example.com;1
+Ciro;Lopez;918274635;67890123;ciro@example.com;1
+Mia;Gutierrez;649173582;78901234;mia@example.com;1
+Lucas;Fernandez;928475361;89012345;lucas@example.com;1
+Renata;Silva;571926348;90123456;renata@example.com;1
+Juan Manuel;Diaz;372648915;01234567;juanmanuel@example.com;1
+Martina;Perez;928475361;12345678;martina@example.com;0
+Lautaro;Rodriguez;571926348;23456789;lautaro@example.com;1
+Juana;Gomez;372648915;34567890;juana@example.com;1
+Francisco;Suarez;928475361;45678901;francisco@example.com;1
+Emilia;Rojas;571926348;56789012;emilia@example.com;1
+Lucas;Sosa;372648915;67890123;lucas@example.com;1
+Sofia;Blanco;928475361;78901234;sofia@example.com;1
+Delfina;Cabrera;571926348;89012345;delfina@example.com;1
+Juan Cruz;Gutierrez;372648915;90123456;juancruz@example.com;1
+Pilar;Alvarez;928475361;01234567;pilar@example.com;0
+Gaston;Torres;571926348;12345678;gaston@example.com;1
+Amelia;Perez;372648915;23456789;amelia@example.com;1
+Luciano;Castro;928475361;34567890;luciano@example.com;1
+Valentina;Diaz;571926348;45678901;valentina@example.com;1
+Julian;Gonzalez;372648915;56789012;julian@example.com;1
+Celeste;Fernandez;928475361;67890123;celeste@example.com;1
+Mateo;Sosa;571926348;78901234;mateo@example.com;0
+Valentino;Gomez;372648915;89012345;valentino@example.com;1
+Lola;Sanchez;928475361;90123456;lola@example.com;1
+Joaquin;Gutierrez;571926348;01234567;joaquin@example.com;1
+Emilia;Martinez;372648915;12345678;emilia@example.com;1
+Benicio;Alonso;928475361;23456789;benicio@example.com;1
+Renata;Acosta;571926348;34567890;renata@example.com;1
+Juan Jose;Lopez;372648915;45678901;juanjose@example.com;0
+Abril;Silva;928475361;56789012;abril@example.com;1
+Juan Bautista;Ramos;571926348;67890123;juanbautista@example.com;1

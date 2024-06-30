@@ -1,0 +1,10 @@
+El Gran Gatsby,F. Scott Fitzgerald,20,5
+Cien años de soledad,Gabriel García Márquez,15,3
+Don Quijote de la Mancha,Miguel de Cervantes,25,10
+Orgullo y Prejuicio,Jane Austen,18,2
+1984, George Orwell,30,8
+Matar a un ruiseñor,Harper Lee, 22,4
+Harry Potter y la piedra filosofal,J.K. Rowling,28,6
+Crimen y castigo,Fyodor Dostoevsky,12,1
+La sombra del viento,Carlos Ruiz Zafón,24,7
+El Hobbit,J.R.R. Tolkien,35,12
